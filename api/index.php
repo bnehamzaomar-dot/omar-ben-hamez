@@ -287,7 +287,7 @@
 
 
 <nav>
-  <div class="logo">M<span>.</span>DAL-LAL</div>
+  <div class="logo">OMAR <span></span>BEN HAMEZA</div>
   <div class="nav-links">
     
   </div>
@@ -301,8 +301,8 @@
   </div>
 
   <h1>
-    Mohamed
-    <span class="stroke">DAL-LAL</span>
+    OMAR
+    <span class="stroke">BEN HAMEZA</span>
   </h1>
 
   <p>Passionné par la programmation et la création d'expériences web modernes. Chaque projet est une opportunité d'apprendre et de progresser.</p>
